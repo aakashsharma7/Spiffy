@@ -17,8 +17,8 @@ Website: [spiffy-io](https://spiffy-io.vercel.app/)
 
 
 ## Our Social Links
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://linkedin.com/in/VishwaGauravIn)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=normal&logo=Twitter&logoColor=white)](https://twitter.com/VishwaGauravIn)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-sharma-2216b8205/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=normal&logo=Twitter&logoColor=white)](https://twitter.com/AakashSharma07)
 
 ## PageSpeed Insights
 ![](https://raw.githubusercontent.com/VishwaGauravIn/Images/f13849bc9989d66c67085313dd606ea978eff0f8/psi-gprm.svg)
