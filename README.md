@@ -1,6 +1,5 @@
 <div align="center">
  <h1> <img src="https://spiffy.itsvg.in/logo.png" width="80px"><br/>Spiffy - Aesthetic Screenshots</h1>
- <a href="https://www.buymeacoffee.com/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
  <img src="https://img.shields.io/npm/v/npm?style=normal"/>
  <img src="https://img.shields.io/website?style=normal&url=https%3A%2F%2Fspiffy.itsvg.in/"/> 
  <img src="https://img.shields.io/badge/License-Apache-brightgreen?style=normal"/>
@@ -11,7 +10,7 @@
 # What is Spiffy?
 Spiffy converts your boring screenshots into aesthetic and beautiful screenshots. Upto 8K download, Custom & AI Background, Shadows, Corners & more.
 
-Website: [spiffy.itsvg.in](https://spiffy.itsvg.in)
+Website: [spiffy-io](https://spiffy-io.vercel.app/)
 
 ## Screenshots
 ![](https://user-images.githubusercontent.com/81325730/197831040-12cad0c4-3eec-4170-a350-7233a1c3ab77.png)
